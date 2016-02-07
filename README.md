@@ -1,2 +1,3 @@
-# innforing-i-git
-Innføring i Git, NTNU
+# Innføring i Git
+
+Kursbeskrivelse: https://online.ntnu.no/events/243/innforing-i-git/
