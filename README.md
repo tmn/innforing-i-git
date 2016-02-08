@@ -8,7 +8,7 @@ Kurset holdes på NTNU, 9. februar 2016, i regi av [Online](http://online.ntnu.n
 
 ## Kursets innhold
 
-Vi går gjennom de mest grunnleggende punktene ved bruk av Git, samt at vi prøver oss på litt _hands-on_ oppgaver, fra mappen [oppgaver](./oppgaver).
+Vi går gjennom de mest grunnleggende punktene ved bruk av Git, samt at vi prøver oss på litt _hands-on_ [oppgaver](./oppgaver).
 
 * Hva er versjonskontroll?
 * Git
